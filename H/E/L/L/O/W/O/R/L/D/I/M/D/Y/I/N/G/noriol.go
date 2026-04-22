@@ -7,6 +7,8 @@ import (
 	"time"
 )
 
+    /w
+
 // ANSI codes
 const (
 	reset   = "\033[0m"
@@ -19,7 +21,11 @@ const (
 	home    = "\033[H"
 	hidecur = "\033[?25l"
 	showcur = "\033[?25h"
+	
+	// a
 )
+
+// R 
 
 // Character art generated directly from the uploaded image
 // 0 = dark areas (hair, eyes, outlines)
@@ -50,28 +56,17 @@ var art = []string{
 	`      10011000000000000001 01           `,
 	`        011000001100000001             `,
 	`           1001  101111001             `,
-	`            1    00  1  11             `,
-	`            11  101  1   1             `,
-	`            00   01                   `,
-	`            1011 01                   `,
-	`             011 01                   `,
-	`            100  11              1000001`,
-	`            101  11               000010`,
-	`            11   1              1100001 `,
-	`    11 111  111                 1000001 `,
-	`   10  1101 1 11 11             10000   `,
-	`  10     10111   01             10001   `,
-	` 11111  10001111 00   111     11 0001   `,
-	`   11    0000 01 00  1011     01 100    `,
-	`  1111   1100 01 01  101      10  0011  `,
-	`  101      11 01100  001      10  111001`,
-	`  101      01 01101 101       10  1 1010`,
+	`            
 }
 
+    /u
+    
 type entry struct {
 	k string
 	v string
 }
+
+    //y
 
 var profile = []entry{
 	{"name",    "noriol"},
@@ -241,8 +236,12 @@ func drawProfile() {
 	fmt.Print(showcur)
 }
 
+    / a
+
 func main() {
 	rand.Seed(time.Now().UnixNano())
 	matrixRain(23, 82, 2400*time.Millisecond)
 	drawProfile()
 }
+
+// n
