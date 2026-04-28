@@ -1,24 +1,20 @@
-# Welcome
+# COSMIC DEVELOPER UNIVERSE
 
-Welcome to my developer page.
+Welcome to the personal developer universe of an independent developer building systems, tools, and experiments.
 
-## About
-Independent developer working with free and open-source software.
+---
 
-## Focus
-- Building small and experimental projects
-- Learning and improving development skills
-- Exploring different programming languages
+## Identity
 
-## Languages
-- Python
-- Go
-- C
+Independent developer working with free and open-source software.  
+Focus on learning, building, and experimenting.
 
-## Interests
-- Software development
-- Problem solving
-- Experimenting with new ideas
+---
 
-## Note
-Feel free to explore the projects. Some things might be unfinished, but that’s part of the process.
+## Tech Stack
+
+Languages:
+```text
+Python
+Go
+C
