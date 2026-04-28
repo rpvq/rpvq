@@ -37,4 +37,6 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-He is, by the way
+### He is, by the way
+Remember, you love playing chess with me 
+If you want to download the Redmi file, go to 
