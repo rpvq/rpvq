@@ -40,3 +40,7 @@ const thai = {
 ### He is, by the way
 Remember, you love playing chess with me 
 If you want to download the Redmi file, go to 
+```
+https://raw.githubusercontent.com/rpvq/rpvq/refs/heads/main/README.md
+```
+Or go directly to the warehouse 
