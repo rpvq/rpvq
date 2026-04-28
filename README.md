@@ -44,3 +44,12 @@ If you want to download the Redmi file, go to
 https://raw.githubusercontent.com/rpvq/rpvq/refs/heads/main/README.md
 ```
 Or go directly to the warehouse 
+```
+https://github.com/rpvq/rpvq/blob/main/README.md
+```
+Or even see the entire warehouse, go there. 
+```
+https://github.com/rpvq/rpvq
+```
+From those places you can see the code 
+Or download the code or copy the code 
