@@ -1,6 +1,6 @@
 # Welcome 
      
-Welcome to my developer page.
+Welcome to my developer page. 
 
 ## About
 Independent developer working with free and open-source software.
